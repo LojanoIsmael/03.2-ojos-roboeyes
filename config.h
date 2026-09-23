@@ -14,6 +14,7 @@
 #define I2C_SDA_PIN 21
 #define I2C_SCL_PIN 22
 #define I2C_FREQUENCY_HZ 400000
+#define I2C_PANEL_ADDR 0x3C
 
 // --- Pantalla OLED SSD1306 (unica pantalla del sistema) ---------------------
 #define OLED_I2C_ADDRESS 0x3C
